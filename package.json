@@ -1,0 +1,29 @@
+{
+  "name": "print-div-element",
+  "version": "1.0.0",
+  "description": "print the div element",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bipul2002/print-div-element.git"
+  },
+  "keywords": [
+    "print"
+  ],
+  "author": "DEBYANS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bipul2002/print-div-element/issues"
+  },
+  "homepage": "https://github.com/bipul2002/print-div-element#readme",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  },
+
+  "files": ["lib/**/*"]
+}

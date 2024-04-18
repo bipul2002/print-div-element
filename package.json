@@ -1,6 +1,6 @@
 {
   "name": "print-div-element",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "print the div element",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -25,5 +25,6 @@
     "typescript": "^5.4.3"
   },
 
-  "files": ["lib/**/*"]
+  "files": ["lib/**/*"],
+  "sideEffects": false
 }
